@@ -1,0 +1,116 @@
+/* .img-responsive{
+
+  background-image: url("images/banner.jpg");
+  height: 400px;
+  width: 100%;
+  background-size: cover;
+
+} */
+
+/* .img-responsive{
+  width: 100%;
+  height: auto;
+
+} */
+
+.video1{
+
+  width: 100%;
+  height: auto;
+
+}
+
+.guide{
+
+  height: 200px;
+
+}
+
+#gallery{
+
+  background-color: #51C4D3;
+
+}
+
+#agents{
+
+  background-color: #51C4D3;
+  color: white;
+
+}
+
+.clients{
+
+  height: 200px;
+
+}
+
+.contactd{
+
+  color: white;
+
+}
+
+.title{
+
+  color: white;
+
+}
+
+#contact{
+
+  text-align: center;
+
+}
+
+/* .text-secondary{
+
+color: white;
+
+} */
+
+/* .logo{
+
+  width: 100px;
+  height: 40px;
+  /* radius: 0; */
+
+/* } */
+
+/* .adjust{
+
+  width:100;
+  height: 400px;
+
+} */
+
+/*
+#video1{
+
+  position: fixed;
+  z-index: -1;
+
+  } */
+
+
+
+  /* @media (min-aspect-ratio: 16/9){
+
+      .img-responsive{
+
+        width: 100%;
+        height: auto;
+
+      }
+    }
+
+  @media (max-aspect-ratio: 16/9){
+
+    .img-responsive{
+
+        width: auto;
+        height: 100%;
+
+      }
+
+    } */
